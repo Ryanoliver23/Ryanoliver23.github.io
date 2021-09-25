@@ -1657,7 +1657,7 @@ p {
      padding-bottom: 0px;
      font-weight: bold;
 }
-.form-control {
+/* .form-control {
     border: none;
     margin: 10px 0;
     padding: 25px 25px;
@@ -1685,7 +1685,7 @@ p {
     width: 100%;
     font-size: 1rem;
     line-height: 1.5em;
-}
+} */
  .send-btn {
      font-size: 26px;
      border: #000000 solid 2px;
